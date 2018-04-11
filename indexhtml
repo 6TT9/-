@@ -1,0 +1,105 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>首页</title>
+	<link rel="stylesheet" type="text/css" href="css/index.css" />
+</head>
+
+<body>
+	<audio src="audio/Hello Nico - 花.mp3" controls autoplay ></audio>
+	<header>
+		
+		<div class="ht_nav">
+			<img src="images/dortmund-16x16/search.png" alt="">
+			<a class="h_touch" href="">
+				<img src="images/dortmund-16x16/TB14smleuOSBuNjy0FdXXbDnVXa-520-280.jpg_qsd90_.png" alt="">
+				<div class="box"></div>
+			</a>
+		</div>
+		<div class="hb_wrapper">
+			<div class="hb_logo"><img src="images/564dsfdssf.png" alt=""></div>
+			<nav class="hb_nav">
+				<ul>
+					<li><a href="#">Home</a></li>
+					<li><a href="#">About</a></li>
+					<li><a href="#">Service</a></li>
+					<li><a href="#">Portfolio</a></li>
+					<li><a href="#">Pricing</a></li>
+					<li><a href="#">Blog</a></li>
+					<li><a href="#">Contact Us</a></li>
+				</ul>
+			</nav>
+			
+			<div class="hb_title">
+				<span>In progress</span>
+				<h1>Constantly grow up</h1>
+				<div></div>
+				<form action="">
+					<input type="text" value="搜索">
+				</form>
+				
+				<a href="#name" id="name">
+					<img class="h_guide" src="images/564651252.png" alt="">
+				</a>
+			</div>
+		</div>
+	</header>
+	<section>
+		<div class="s_partition">
+			<h2>成长进行时</h2> 
+			<p>志向不过是记忆的奴隶，生气勃勃地出世，但却很难成长。——莎士比亚</p>
+		</div>
+	</section>
+	
+	<div class="content">
+		<div class="content_box">
+			<div class="cb_Accordion" tabindex="2">
+				<ul>
+					<li class="box1" tabindex="2"><img src="images/dortmund-16x16/ticket.png" alt="">
+					<a href="#">html知识思维导图</a>
+					<a href="#">css知识思维导图</a>
+					<a href="#">JavaScript知识思维导图</a>
+					</li>
+					<li class="box2" tabindex="2"><img src="images/dortmund-16x16/credit-card.png" alt="">
+					<a href="#">html知识笔记</a>
+					<a href="#">css知识笔记</a>
+					<a href="#">JavaScript知识笔记</a>
+					<a href="#">jQuery知识笔记</a>
+					</li>
+					<li class="box3" tabindex="2"><img src="images/dortmund-16x16/settings.png" alt="">
+					<a href="#">作品链接</a></li>
+					<li class="box4" tabindex="2"><img src="images/dortmund-16x16/collaboration.png" alt=""></li>
+					<li class="box5" tabindex="2"><img src="images/dortmund-16x16/freelance.png" alt=""></li>
+					<li class="box6" tabindex="2"><img src="images/dortmund-16x16/pencil.png" alt=""></li>
+					<li class="box7" tabindex="2"><img src="images/dortmund-16x16/feed.png" alt=""></li>
+					<li class="box8" tabindex="2"><img src="images/dortmund-16x16/business-contact.png" alt=""></li>
+				</ul>
+				<a href="#name" id="name"></a>
+			</div> 
+		</div>
+	</div>
+	<div class="left"></div>
+	<div class="main">
+		<nav>
+			<ul class="main_nav">
+				<li>内容一</li>
+				<li>内容二</li>
+				<li>内容三</li>
+				<li>内容四</li>
+			</ul>
+		</nav>
+		<ul class="main_substance">
+			<li><img src="images/3b01a7b3d383f09d3aee3cbe53e52e99.jpg" alt=""></li>
+			<li><div>所在地：青岛<br>
+					 联系：15166675460</div></li>
+			<li><div>毕业于：黑龙江省工程学院<br>
+					 学历：大专</div></li>
+			<li><img src="
+				images/42fc8bcd17d683dd2a926e1b3a5b06ad.jpg" alt=""></li>
+		</ul>
+	</div>
+	<div class="right"></div>
+	<footer class="ht_nav"></footer>
+</body>
+</html>
